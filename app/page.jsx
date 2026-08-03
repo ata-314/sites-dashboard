@@ -1,3 +1,4 @@
+import Link from "next/link";
 import sites from "../data/sites.json";
 
 const STATUS_CLASS = {
@@ -12,15 +13,18 @@ function SiteCard({ site }) {
   return (
     <article className="card">
       <div className="card-head">
-        <h2>{site.name}</h2>
+        <h2>
+          <Link href={`/site/${site.slug}`}>{site.name}</Link>
+        </h2>
         <span className={badgeClass}>{site.status}</span>
       </div>
       <p className="desc">{site.description}</p>
       <p className="slug">{site.slug}</p>
       <div className="links">
+        <Link href={`/site/${site.slug}`}>İncele →</Link>
         {site.previewUrl ? (
           <a href={site.previewUrl} target="_blank" rel="noreferrer">
-            Live preview ↗
+            Yeni sekme ↗
           </a>
         ) : (
           <span className="muted">no preview yet</span>
