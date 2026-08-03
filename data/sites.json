@@ -11,8 +11,8 @@
     "slug": "modd-ai",
     "name": "Modd AI",
     "description": "MODD/group'un yapay zekâ ajansı — tek sayfa landing. Kamera yok, set yok, fikirden videoya.",
-    "status": "Building",
-    "previewUrl": null,
+    "status": "Staging",
+    "previewUrl": "https://modd-ai-site.vercel.app",
     "repoUrl": null
   }
 ]
