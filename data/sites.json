@@ -14,5 +14,13 @@
     "status": "Staging",
     "previewUrl": "https://modd-ai-site.vercel.app",
     "repoUrl": "https://github.com/ata-314/modd-ai-site"
+  },
+  {
+    "slug": "dbh-group",
+    "name": "DBH Group",
+    "description": "DBH Group web sitesi — intake bekleniyor, şu an boş Next.js iskeleti.",
+    "status": "Staging",
+    "previewUrl": "https://dbh-group-site.vercel.app",
+    "repoUrl": "https://github.com/ata-314/dbh-group-site"
   }
 ]
