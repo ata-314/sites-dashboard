@@ -18,7 +18,7 @@
   {
     "slug": "dbh-group",
     "name": "DBH Group",
-    "description": "DBH Group web sitesi — intake bekleniyor, şu an boş Next.js iskeleti.",
+    "description": "DBH Group kurumsal sitesi — sinematik ana sayfa: logo mask intro, scroll-scrub video hero, 6 sektör, projeler.",
     "status": "Staging",
     "previewUrl": "https://dbh-group-site.vercel.app",
     "repoUrl": "https://github.com/ata-314/dbh-group-site"
