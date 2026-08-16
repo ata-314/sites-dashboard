@@ -10,7 +10,7 @@
   {
     "slug": "modd-ai",
     "name": "Modd AI",
-    "description": "MODD/group'un yapay zekâ ajansı — tek sayfa landing. Kamera yok, set yok, fikirden videoya.",
+    "description": "MODD/group'un yapay zekâ ajansı — tek sayfa landing. Fikirden videoya, yapay zekâ ile üretim.",
     "status": "Staging",
     "previewUrl": "https://modd-ai-site.vercel.app",
     "repoUrl": "https://github.com/ata-314/modd-ai-site"
@@ -22,5 +22,13 @@
     "status": "Staging",
     "previewUrl": "https://dbh-group-site.vercel.app",
     "repoUrl": "https://github.com/ata-314/dbh-group-site"
+  },
+  {
+    "slug": "ataberk-portfolio",
+    "name": "Ataberk Portfolio",
+    "description": "Ataberk Soylu — Creative Technologist & Multi Designer. Kişisel portfolyo: üretken partikül hero, /tr + /en.",
+    "status": "Staging",
+    "previewUrl": "https://ataberk-portfolio-rho.vercel.app",
+    "repoUrl": "https://github.com/ata-314/ataberk-portfolio"
   }
 ]
