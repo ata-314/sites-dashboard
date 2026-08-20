@@ -30,5 +30,13 @@
     "status": "Staging",
     "previewUrl": "https://ataberk-portfolio-rho.vercel.app",
     "repoUrl": "https://github.com/ata-314/ataberk-portfolio"
+  },
+  {
+    "slug": "ala-cekmekoy-nefes",
+    "name": "ALA Çekmeköy Nefes",
+    "description": "Premium konut projesi landing — tek sabit hero, scroll-scrub tanıtım videosu, glass paneller, lead formu.",
+    "status": "Staging",
+    "previewUrl": "https://ala-cekmekoy-nefes.vercel.app",
+    "repoUrl": "https://github.com/ata-314/ala-cekmekoy-nefes"
   }
 ]
