@@ -38,5 +38,13 @@
     "status": "Staging",
     "previewUrl": "https://ala-cekmekoy-nefes.vercel.app",
     "repoUrl": "https://github.com/ata-314/ala-cekmekoy-nefes"
+  },
+  {
+    "slug": "ucay-360",
+    "name": "Üçay 360",
+    "description": "Kurumsal site — bölüm bölüm inşa. Hero: glass menü, scroll-scrub tanıtım videosu, 3 sahne.",
+    "status": "Staging",
+    "previewUrl": "https://ucay-360.vercel.app",
+    "repoUrl": "https://github.com/ata-314/ucay-360"
   }
 ]
