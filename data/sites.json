@@ -54,5 +54,13 @@
     "status": "Staging",
     "previewUrl": "https://kasim-yilmaz-akademi.vercel.app",
     "repoUrl": ""
+  },
+  {
+    "slug": "doooomsday",
+    "name": "DOOOOMSDAY",
+    "description": "Avengers: Doomsday fan deneyimi — geri sayım, 3D Doom sahnesi, 20 puanla altı kahraman seçimi, paylaşılabilir takım kartı ve tahmin kasası.",
+    "previewUrl": "https://doooomsday.vercel.app",
+    "repoUrl": "",
+    "status": "Staging"
   }
 ]
