@@ -62,5 +62,12 @@
     "previewUrl": "https://doooomsday.vercel.app",
     "repoUrl": "",
     "status": "Staging"
+  },
+  {
+    "slug": "real-expert",
+    "name": "Real Expert",
+    "description": "Real Expert Gayrimenkul Danışmanlığı — tek sayfa site: 3B büyüteç girişi, bulutların üstünde logo sahnesi, sahibinden ilanları, rakam şehri.",
+    "status": "Staging",
+    "previewUrl": "https://real-expert.vercel.app"
   }
 ]
